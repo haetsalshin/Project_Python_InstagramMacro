@@ -12,8 +12,7 @@ Python 기반의 Selenium(+feat : Chrome Driver) 사용하여 인스타그램에
 ## Hyperlink & description of files
 #### Project_Python_InstagramMacro/instagram 
   - 인스타그램에서 특정 해시태그를 검색하여 각 게시물을 좋아요를 누르고 댓글달기
-  - https://github.com/haetsalshin/Project_Python_InstagramMacro/tree/master/instagram
-
+      https://github.com/haetsalshin/Project_Python_InstagramMacro/tree/master/instagram
 #### Project_Python_InstagramMacro/libs
   - 소스코드 할당 및 값 return.  
   - https://github.com/haetsalshin/Project_Python_InstagramMacro/tree/master/libs
