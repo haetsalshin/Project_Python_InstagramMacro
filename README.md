@@ -18,5 +18,5 @@ Python 기반의 Selenium(+feat : Chrome Driver) 사용하여 인스타그램에
       https://github.com/haetsalshin/Project_Python_InstagramMacro/tree/master/libs
 
 #### Project_Python_InstagramMacro/pratice
-  - 페이스북에 자동 로그인 하기.
+  - 페이스북에 자동 로그인 하기.  
       https://github.com/haetsalshin/Project_Python_InstagramMacro/tree/master/pratice
