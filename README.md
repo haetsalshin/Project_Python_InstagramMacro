@@ -10,13 +10,23 @@ Python 기반의 Selenium(+feat : Chrome Driver) 사용하여 인스타그램에
   - Using Package :[requests, selenium, beautifulsoup4, times, random](#built-with)    
   
 ## :heavy_check_mark:Hyperlink & Description of Files
-#### Project_Python_InstagramMacro/instagram 
-  - 인스타그램에서 특정 해시태그를 검색하여 각 게시물을 좋아요를 누르고 댓글달기
-      https://github.com/haetsalshin/Project_Python_InstagramMacro/tree/master/instagram
+#### Project_Python_InstagramMacro/pratice
+  - 
+  - 페이스북에 자동 로그인 하기.
+  - [Chapter01_crawl](https://github.com/haetsalshin/Project_Python_InstagramMacro/blob/master/pratice/chapter01_crawl.py)
+  - [Chapter02_webbrowser](https://github.com/haetsalshin/Project_Python_InstagramMacro/blob/master/pratice/chapter02_webbrowser.py)
+  - [Chapter03 seleium_crawl](https://github.com/haetsalshin/Project_Python_InstagramMacro/blob/master/pratice/chapter03_selenium_crawl.py)
+  - [Chapter04 facebook_login](https://github.com/haetsalshin/Project_Python_InstagramMacro/blob/master/pratice/chapter04_facebook_login.py)
+
 #### Project_Python_InstagramMacro/libs
   - 소스코드 할당 및 값 return.  
       https://github.com/haetsalshin/Project_Python_InstagramMacro/tree/master/libs
 
-#### Project_Python_InstagramMacro/pratice
-  - 페이스북에 자동 로그인 하기.  
+#### Project_Python_InstagramMacro/instagram
+  - 인스타그램에서 특정 해시태그를 검색하여 각 게시물을 좋아요를 누르고 댓글달기
       https://github.com/haetsalshin/Project_Python_InstagramMacro/tree/master/pratice
+
+
+
+
+[링크는 젤다의전설 주인공 이름](http://zeldahagoshipda.com)
