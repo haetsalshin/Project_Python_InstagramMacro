@@ -8,7 +8,7 @@ Python 기반의 Selenium(+feat : Chrome Driver) 사용하여 인스타그램에
   - IDE Tool : [:computer:Pycharm](#running-the-tests)
   - Package Manager : [:snake:Anaconda](#deployment)
   - Using Package :[requests, selenium, beautifulsoup4, times, random](#built-with)
-  - Using WebDriver : [Chrome Driver] ( Use the same version as the Chrome browser version you use!)
+  - Using WebDriver : [Chrome Driver](#built-with) ( Use the same version as the Chrome browser version you use!)
   
 ## :heavy_check_mark:Hyperlink & Description of Files
 #### 1. pratice
